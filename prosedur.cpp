@@ -34,27 +34,28 @@ void prosedurSMP ()
 	cout<<" 8. umur 12 tahun masuk ke kelas 1 SMP"<<endl;
 	cout<<" 9. naik kelas 2 SMP"<<endl;
 	cout<<" 10. naik kelas 3 SMP"<<endl;
+	cout<<" 11. LULUS SMP"<<endl;
  }
 
 void prosedurSMK ()
 {
 	cout<<"PROSEDUR SMK"<<endl;
-	cout<<" 11. umur 15 masuk ke kelas 1 SMK"<<endl;
-	cout<<" 12. naik kelas 2 SMK"<<endl;
-	cout<<" 13. naik kelas 3 SMK"<<endl;
-	cout<<" 14. LULUS SMK"<<endl;
+	cout<<" 12. umur 15 masuk ke kelas 1 SMK"<<endl;
+	cout<<" 13. naik kelas 2 SMK"<<endl;
+	cout<<" 14. naik kelas 3 SMK"<<endl;
+	cout<<" 15. LULUS SMK"<<endl;
  }
 
 void prosedurSARJANA () 
 {
 	cout<<"PROSEDUR SARJANA"<<endl;
-	cout<<" 17. Smester 1 "<<endl;
-	cout<<" 18. Smester 2 "<<endl;
-	cout<<" 19. Smester 3 "<<endl;
-	cout<<" 20. Smester 4 "<<endl;
-	cout<<" 21. Smester 5 "<<endl;
-	cout<<" 22. Smester 6 "<<endl;
-	cout<<" 23. Smester 7 "<<endl;
-	cout<<" 24. Smester 8 "<<endl;
-	cout<<" 25. LULUS dan menjadi SARJANA dan hasilnya MEMUASKAN!!! "<<endl;
+	cout<<" 16. Smester 1 "<<endl;
+	cout<<" 17. Smester 2 "<<endl;
+	cout<<" 18. Smester 3 "<<endl;
+	cout<<" 19. Smester 4 "<<endl;
+	cout<<" 20. Smester 5 "<<endl;
+	cout<<" 21. Smester 6 "<<endl;
+	cout<<" 22. Smester 7 "<<endl;
+	cout<<" 23. Smester 8 "<<endl;
+	cout<<" 24. LULUS dan menjadi SARJANA dan hasilnya MEMUASKAN!!! "<<endl;
  }
